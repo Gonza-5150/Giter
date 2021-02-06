@@ -54,10 +54,3 @@ while opcion != 0:
 print("Gracias por usar Mi Red. ¡Hasta pronto!")
 
 
-#1. Agrega una opción que permita agregar un nuevo amigo a tu lista. En este caso no utilizaremos confirmación
-#   de parte del destinatario, de manera que la relación de amistad puede perfectamente existir en un solo sentido.
-#
-#2. Agrega una opciún que permita mostrar los últimos estados de todos los amigos.
-#   Ten en cuenta que esto no es equivalente a publicar los mensajes de tu muro, sino que necesitarás
-#   leer una línea particular de los archivos de cada usuario en tu lista de amigos.
-#
